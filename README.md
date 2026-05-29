@@ -22,13 +22,13 @@ Learn to use the GitHub Copilot CLI in Codespaces for interactive development, c
 ### 6. [The Boilerplate Buster](6.The%20Boilerplate%20Buster.md)
 Spin up a GitHub Codespace to rapidly generate a complete project skeleton for a Dockerized Python web server using FastAPI with proper testing and deployment configurations.
 
-### [cicd pipeline](cicd%20pipeline.md)
+### 7. [cicd pipeline](cicd%20pipeline.md)
 Automate your testing workflow using GitHub Actions. Design and deploy a CI/CD pipeline that runs tests on every commit, includes linting, and uploads code coverage reports.
 
-### [Documentation & Platform Alignment](Documentation%20&%20Platform%20Alignment.md)
+### 8. [Documentation & Platform Alignment](Documentation%20&%20Platform%20Alignment.md)
 Master documentation and communication in professional environments. Generate production-ready README files, track code changes with Git diffs, and create structured Pull Request descriptions.
 
-### [The Silent Vulnerability](The%20Silent%20Vulnerability.md)
+### 9. [The Silent Vulnerability](The%20Silent%20Vulnerability.md)
 Act as an Application Security Engineer to audit for vulnerabilities, prove exploits with test cases, and use Agent Mode to securely refactor code to fix SQL injection vulnerabilities.
 
 ---
